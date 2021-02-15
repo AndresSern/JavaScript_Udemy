@@ -46,7 +46,6 @@ const restaurante = {
     console.log(OtherIngredients);
   },
 };
-
 console.log("--------------------------MAPS FUNDAMENTALS---------------------");
 const rest = new Map();
 rest.set("name", "Classico Italiano");
@@ -113,4 +112,3 @@ console.log(...question);
 console.log(question.entries());
 console.log([...question.keys()]);
 console.log([...question.values()]);
-
